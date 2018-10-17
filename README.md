@@ -1,4 +1,4 @@
-# MusicNotationRecongnitionSystem
+# MusicNotationRecognitionSystem
 Ongoing project aiming to build a big project within 4 months that emphasizes the GUI - the Graphical User Interface. 
 We will build a gesture based music notation system. The music notation is clearly graphical and is 
 quite structured so we will have to build classes that support that structure in order to draw it on the screen. 
